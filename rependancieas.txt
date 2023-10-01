@@ -1,0 +1,15 @@
+debug
+Flask
+jsonify
+request
+generate_password_hash
+pymongo
+
+
+
+# install python dependencies command
+# pip install -r requirements.txt
+# create virtualenv
+# python3 -m venv test
+# activate virtualenv 
+# source /home/nikhil/Desktop/ondemandcontainer/test/bin/activate
